@@ -2,7 +2,7 @@
 
 ## Personal Information
 Hello! My name is **[Serra Gumuser]**.  
-I am a student at **[Warsaw Management University]** and currently studying **[Computer Engineering]**.
+I'am a student at **[Warsaw Management University]** and currently studying **[Computer Engineering]**.
 
 I am passionate about programming, software development, and learning new technologies.
 
